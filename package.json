@@ -1,0 +1,17 @@
+{"name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "fizz buzz coding kata",
+  "main": "index.js",
+  "author": "Parul Singh",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts" :{
+    "test": "jest",
+    "watch": "jest --watch",
+    "watchAll": "jest --watchAll"
+  }
+}
+
